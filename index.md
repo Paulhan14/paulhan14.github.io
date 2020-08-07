@@ -1,3 +1,12 @@
-## Intro
+---
+#
+# Here you can change the text shown in the Home page before the Latest Posts section.
+#
+# Edit cayman-blog's home layout in _layouts instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
+---
 
-This is my personal blog where I will constantly post notes.
+This is my personal tech blog.
+To where I will be constantly posting blogs about coding.
